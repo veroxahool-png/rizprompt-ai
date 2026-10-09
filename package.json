@@ -1,0 +1,8 @@
+{
+  "name": "rizprompt-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first prompt studio and SeePrompt analyzer for Seedance video prompts",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
